@@ -89,7 +89,7 @@
 
 ## دیتاست
 - منبع: [UCI Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
-- دانلود: [heart.csv](data/heart.csv) 
+- دانلود: [heart.csv]([data/heart.csv](https://github.com/arezoora3tkar/heart-disease-prediction/blob/main/Heart_Disease_Prediction.csv)) 
 ## License
 MIT License – آزاد برای استفاده و تغییر.
 
