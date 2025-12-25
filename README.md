@@ -45,7 +45,7 @@
 ![Age KDE](images/hist_age_kde.png)
 
 - **Scatter plots (سن، کلسترول، HR):**
-![Scatter Plots](images/scatter_plots.png)
+![Scatter Plots]([images/scatter_plots.png](https://github.com/arezoora3tkar/heart-disease-prediction/blob/main/images/3d_scatter.png))
 
 - **3D Scatter سن-کلسترول-BP (رنگ بر اساس کلاس):**
 ![3D Scatter](images/3d_scatter.png)
