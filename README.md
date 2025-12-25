@@ -2,7 +2,7 @@
 
 # پیش‌بینی بیماری قلبی با Python و Scikit-learn 🫀
 
-![Banner - Correlation Heatmap](images/correlation_heatmap.png) <!-- عکس همبستگی رو بنر کن – از فولدر imagesت -->
+![Banner - Correlation Heatmap](https://github.com/arezoora3tkar/heart-disease-prediction/blob/main/images/correlation_heatmap.png) <!-- عکس همبستگی رو بنر کن – از فولدر imagesت -->
 
 ## درباره پروژه (About)
 این پروژه تحلیل و پیش‌بینی بیماری قلبی رو با دیتاست UCI Heart Disease (۳۰۳ نمونه، ۱۴ ویژگی مثل سن، جنسیت، فشار خون، کلسترول) انجام می‌ده. از EDA شروع می‌شه تا مدل‌های ML (Logistic Regression, Decision Tree, KNN, Random Forest, SVC) با tuning و clustering (KMeans).
